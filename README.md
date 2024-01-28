@@ -1,16 +1,29 @@
-# amazon
+# E-commerce
 
-A new Flutter project.
+I developed an engaging and user-friendly e-commerce mobile application using Flutter for the front-end and Firebase for the back-end. The app provides an intuitive shopping experience with a clean, modern UI design optimized for mobile devices.
 
-## Getting Started
+Key features include:
 
-This project is a starting point for a Flutter application.
+- Secure user authentication powered by Firebase Authentication allowing customers to easily sign up, log in, and manage their accounts.
 
-A few resources to get you started if this is your first Flutter project:
+- Integration with the Firebase Cloud Firestore database enabling real-time data syncing across users and easy content management.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Implementation of the Razorpay API for quick, reliable and secure checkouts and payments processing.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Modular code architecture following the MVC pattern to ensure scalability and maintainability.
+
+- Attractive product listings with filtering, search, and smooth image carousels for an immersive browsing experience.
+
+- Intuitive cart and order management system for seamless checkout.
+
+- Push notifications to update users on order status and other updates.
+
+The app provides a complete mobile e-commerce solution combining Flutter's excellent cross-platform capabilities with Firebase's flexible and scalable BaaS. The integration of Razorpay allows for a smooth payment experience. The use of MVC architecture and modular code ensures the app can scale as more features are added. Overall, it delivers an engaging shopping experience conveniently accessible from mobile device
+
+# Screenshots
+
+
+
+
+https://github.com/avirupnandi1/EcommerceApp/assets/106444983/16ca989c-4329-47c7-97cd-baf3ae0b58a7
+
