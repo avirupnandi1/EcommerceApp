@@ -6,7 +6,7 @@ Key features include:
 
 - Secure user authentication powered by Firebase Authentication allowing customers to easily sign up, log in, and manage their accounts.
 
-- Integration with the Firebase Cloud Firestore database enabling real-time data syncing across users and easy content management.
+- Integration with the Firebase Cloud Firestore database enabling real-time data syncing across users & easy content management.
 
 - Implementation of the Razorpay API for quick, reliable and secure checkouts and payments processing.
 
